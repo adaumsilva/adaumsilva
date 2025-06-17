@@ -23,7 +23,7 @@ Santo André, São Paulo — 🇧🇷
 
 > tools & stacks
 [Python] [PHP] [Javascript] [WordPress APIs]  
-[OpenAI / ChatGPT] [WooCommerce]
+[OpenAI API] [Google API]
 
 > highlights
 ⚙️ 10+ years coding experience  
