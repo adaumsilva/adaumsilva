@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World%2C+I'm+Adam+Silva!;Developer+%7C+Educator+%7C+AI+Builder" alt="Typing SVG" /></h1>
 
-<!--
-**adaumsilva/adaumsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&color=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Bots-informational?style=flat&logo=openai&color=white&labelColor=000000" />
+  
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+> whoami
+Adam Silva — Developer | AI Builder | Educator
+
+> location
+Santo André, São Paulo — 🇧🇷
+
+> education 
+🎓 Bachelor's in IT — FATEC São Caetano do Sul
+
+> tools & stacks
+[Python] [PHP] [Javascript] [WordPress APIs]  
+[OpenAI / ChatGPT] [WooCommerce]
+
+> highlights
+⚙️ 10+ years coding experience  
+📚 7,000+ students across 70+ technical courses  
+🌐 Global clients: US, Canada, Italy, Taiwan  
+🏆 Government scholarship for top academic performance
+
+📌 WP Comment Responder
+https://github.com/adaumsilva/wp-comment-responder
+↳ Auto-replies WordPress comments using AI (PHP + OpenAI)
+
+📌 YouTube Comment Fetcher
+https://github.com/adaumsilva/youtube-comment-fetcher
+↳ Fetches comments from YouTube videos using API (Python)
+
+🌐 Estudar TI
+https://www.estudarti.com.br
+↳ Learn programming, AI & automations (Online courses platform)
+
+💼 F5 Marketing Digital
+https://www.f5marketingdigital.com.br
+↳ Creative digital agency for WordPress, ads & automations
+
+> email
+adaumsilva@gmail.com
+
+> linkedin
+https://linkedin.com/in/adam-silva/
+
+> websites
+https://estudarti.com.br
+https://f5marketingdigital.com.br
+https://f5themes.com
+
+"Technology isn't just code — it's the bridge between ideas and life-changing solutions."
+Adam Silva
+
