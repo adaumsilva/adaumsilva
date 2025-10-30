@@ -16,10 +16,11 @@
 Adam Silva — Developer | AI Builder | Educator
 
 > location
-Santo André, São Paulo — 🇧🇷
+Washington, DC — usa
 
 > education 
-🎓 Bachelor's in IT — FATEC São Caetano do Sul
+🎓 Master's in Computer Science — Universty of the Potomac 2025-2027
+🎓 Bachelor's in IT — FATEC São Caetano do Sul 2009-2012
 
 > tools & stacks
 [Python] [PHP] [Javascript] [WordPress APIs]  
@@ -53,11 +54,10 @@ adaumsilva@gmail.com
 > linkedin
 https://linkedin.com/in/adam-silva/
 
+> Portfolio at Behance
+https://www.behance.net/adamhenriquesilva
+
 > websites
 https://estudarti.com.br
 https://f5marketingdigital.com.br
-https://f5themes.com
-
-"Technology isn't just code — it's the bridge between ideas and life-changing solutions."
-Adam Silva
 
